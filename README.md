@@ -1,2 +1,3 @@
-# spectralbert
-Visualizing BERT weights as it trains
+# RAG with BERT
+
+Testing search and retrieval with BERT in Jax.
