@@ -32,5 +32,3 @@ model = eqx.tree_deserialise_leaves('./model/sst2_bert.eqx', classifier)
 
 flat, meta, static = ravel_model(model)
 print('Total Number of parameters in BERT:', flat.shape[0])
-
-print(meta.)
